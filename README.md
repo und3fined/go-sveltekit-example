@@ -15,3 +15,7 @@ make run-server #
 ```
 
 Open website with localhost:3000 for test render sveltekit with Go
+
+### Screenshot
+
+![screenshot](https://github.com/und3fined/go-sveltekit-example/blob/main/screenshot.png?raw=true)
