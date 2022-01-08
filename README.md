@@ -2,6 +2,11 @@
 
 Make Svelte SSR run in Golang
 
+### Requiment
+
+- Nodejs, pnpm
+- Golang 1.16 or above
+
 ### How to start?
 
 ```
